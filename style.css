@@ -1,0 +1,10 @@
+* {
+  outline: 1px solid black;
+  text-align: center;
+}
+.happy-light {
+  color:white;
+}
+.happy-danger {
+  color:#dc3545;
+}
